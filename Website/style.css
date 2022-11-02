@@ -1,0 +1,27 @@
+body {
+  box-sizing: border-box;
+}
+aside {
+  width: 300px;
+  background: #202020;
+  box-shadow: 5px 0px 15px rgba(5, 5, 5, 0.1);
+  color: #DEDEDE;
+}
+.avatar__aside {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background:  #FFFFFF;
+  border: 2px solid #FFFFFF;
+  box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.25);
+}
+.aside__text {
+  width: 300px;
+}
+.icon {
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+  background: #DEDEDE;
+
+}
